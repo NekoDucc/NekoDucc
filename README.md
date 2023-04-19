@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KaoooYT
+- 👋 Hi, I’m @NekoDucc
 - 👀 I’m interested in game developpement and gaming in general
-- 🌱 I’m currently learning c# python and chinese
+- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on nothing for the moment
 
 <!---
